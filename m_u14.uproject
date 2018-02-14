@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{0572EE14-429D-3697-2BBC-2E995D4ACA4D}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "m_u14",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
