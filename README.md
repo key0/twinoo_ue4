@@ -1,8 +1,9 @@
 # twinoo_ue4
-[](https://github.com/key0/twinoo_ue4/blob/master/Screenshot_twinoo.png)
-
 По утверждению авторов оригинальной игры twinoo за сложение чисел , цветов отвечают разные области мозга , постоянно переключаясь
 происходит тренировка. Добавлен вариант сложения геометрических форм
+
+![](https://github.com/key0/twinoo_ue4/blob/master/Screenshot_twinoo.png)
+
 
 
 
